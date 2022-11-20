@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/agriverse/static/css/main.8c5a8932.css",
+    "main.js": "/agriverse/static/js/main.5b0dc398.js",
+    "static/js/787.054d5ca9.chunk.js": "/agriverse/static/js/787.054d5ca9.chunk.js",
+    "static/media/AgriVerse_WhitePaper.pdf": "/agriverse/static/media/AgriVerse_WhitePaper.b8c31f1a137e6ceb0d2f.pdf",
+    "static/media/video.mp4": "/agriverse/static/media/video.e183171cac1750c324e9.mp4",
+    "static/media/AgriVerse_AuditReport_InterFi.pdf": "/agriverse/static/media/AgriVerse_AuditReport_InterFi.13b34f29f44268031533.pdf",
+    "static/media/Agriverse_KYCCertificate_InterFi.pdf": "/agriverse/static/media/Agriverse_KYCCertificate_InterFi.afbdfadcc31055459024.pdf",
+    "static/media/image2.jpg": "/agriverse/static/media/image2.6e75777986fb2358d684.jpg",
+    "static/media/DigitoneRegular.woff": "/agriverse/static/media/DigitoneRegular.657a92ff9493a831e8b7.woff",
+    "static/media/image1.jpg": "/agriverse/static/media/image1.4b4474d68bb4eba6dd01.jpg",
+    "static/media/DigitoneRegular.woff2": "/agriverse/static/media/DigitoneRegular.d233041b49b556abb730.woff2",
+    "static/media/logoo.png": "/agriverse/static/media/logoo.dd984daffe017c6a6f84.png",
+    "index.html": "/agriverse/index.html",
+    "static/media/slick.svg": "/agriverse/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/agriverse/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/agriverse/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/agriverse/static/media/slick.295183786cd8a1389865.woff",
+    "main.8c5a8932.css.map": "/agriverse/static/css/main.8c5a8932.css.map",
+    "main.5b0dc398.js.map": "/agriverse/static/js/main.5b0dc398.js.map",
+    "787.054d5ca9.chunk.js.map": "/agriverse/static/js/787.054d5ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c5a8932.css",
+    "static/js/main.5b0dc398.js"
+  ]
+}
